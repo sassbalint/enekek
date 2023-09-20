@@ -17,18 +17,18 @@
 
 * Adjunk háálát
 * Ádventi hírnök
-* A föld és az ég
+* A föld és az ég :heavy_check_mark:
 * Áldalak, jó Uram
 * Áldjad én lelkem
 * Áldom az Urat míg
 * András után vasárnap
 * Atyám, tied vagyok
-* Béke Istene
+* Béke Istene :heavy_check_mark:
 * Békesség
-* Csak állok szótlanul
-* Énekelj az Úrnak
+* Csak állok szótlanul :heavy_check_mark:
+* Énekelj az Úrnak :heavy_check_mark:
 * Engedd, hogy szolgálhassak
-* Erőt adsz
+* Erőt adsz :heavy_check_mark:
 * Fivérem, Nap (?)
 * Győzelmet vettél
 * Ízleld és lásd
@@ -38,18 +38,18 @@
 * Jöjj, itt az idő, hogy
 * Kegyelmed, ó Jézus
 * Király vagy
-* Köszönöm, Jézus
+* Köszönöm, Jézus :heavy_check_mark:
 * Látod újra este van
-* Lelkem, áldd
+* Lelkem, áldd :heavy_check_mark:
 * Lelkem az Urat dicsérd
-* Mária, Mária, szép virágszál
+* Mária, Mária, szép virágszál :heavy_check_mark:
 * Menedékem az Isten
 * Menjetek be kapuin
-* Mert te, Uram
+* Mert te, Uram :heavy_check_mark:
 * Mert tudom, semmi nem
 * Minden, mi él
 * Nem vagyok én méltó
-* Nézz testvér fel
+* Nézz testvér fel :heavy_check_mark:
 * Ő az Úr
 * Ő az út, az élet (mrimrims)
 * Örülj az Úrban
@@ -58,7 +58,7 @@
 * Röpke fohász
 * Szent x5 vagy (ldtldl)
 * Szeretünk téged, Mária
-* Tápláló szent kenyér
+* Tápláló szent kenyér :heavy_check_mark:
 * Teremts bennem
 * Te vagy a fény (llmf)
 * Te vagy az út, az igazság (mmmr)
