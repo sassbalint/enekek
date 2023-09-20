@@ -1,62 +1,66 @@
 # énekes imák
 
-* Nézz testvér fel
-* Jézus nékünk adtál anyát
-* Békesség
-* Ő az Úr
-* Minden, mi él
-* Ő az út, az élet (mrimrims)
-* Jézus, ünnepeljük győzelmed
-* Király vagy
-* Szeretünk téged, Mária
-* Látod újra este van
-* Röpke fohász
-* Virrassz még
-* Jöjj, itt az idő, hogy
+## ezeket nagyon
+
 * Allelúja (lmdr ddrtlsl dtsl) :fire:
-* Engedd, hogy szolgálhassak
-* Énekelj az Úrnak
-* Áldjad én lelkem
-* Köszönöm, Jézus
+* Allelúja (mdfm) :fire:
+* Annak, ki a trónon ül :fire:
+* Ébredj fel te, ki bűnben jársz :fire:
+* Hadd legyek nálad :fire:
+* Kenyeret és bort hozok :fire:
+* Kész az én szívem :fire:
 * Krisztus, virágunk :fire:
-* Csak állok szótlanul
-* Per crucem
+* Te vagy az út (rmrd drmrdr) :fire:
+* Van egy másik világ :fire:
+
+## ezeket is
+
+* Adjunk háálát
+* Ádventi hírnök
+* A föld és az ég
+* Áldalak, jó Uram
+* Áldjad én lelkem
 * Áldom az Urat míg
-* Tápláló szent kenyér
+* András után vasárnap
+* Atyám, tied vagyok
+* Béke Istene
+* Békesség
+* Csak állok szótlanul
+* Énekelj az Úrnak
+* Engedd, hogy szolgálhassak
+* Erőt adsz
+* Fivérem, Nap (?)
+* Győzelmet vettél
+* Ízleld és lásd
+* Jézus, hű bárány
+* Jézus nékünk adtál anyát
+* Jézus, ünnepeljük győzelmed
+* Jöjj, itt az idő, hogy
+* Kegyelmed, ó Jézus
+* Király vagy
+* Köszönöm, Jézus
+* Látod újra este van
+* Lelkem, áldd
 * Lelkem az Urat dicsérd
 * Mária, Mária, szép virágszál
-* Te vagy az út, az igazság (mmmr)
 * Menedékem az Isten
-* Allelúja (mdfm) :fire:
-* Mert tudom, semmi nem
-* Van egy másik világ :fire:
-* Erőt adsz
-* Annak, ki a trónon ül :fire:
-* Győzelmet vettél
-* Zengi a hajnal
-* Te vagy az út (rmrd drmrdr) :fire:
-* Lelkem, áldd
-* Kegyelmed, ó Jézus
-* Ébredj fel te, ki bűnben jársz :fire:
-* Adjunk háálát
 * Menjetek be kapuin
-* Nem vagyok én méltó
-* Kész az én szívem :fire:
-* Ízleld és lásd
-* Fivérem, Nap (?)
-* Atyám, tied vagyok
-* Teremts bennem
-* Szent x5 vagy (ldtldl)
-* Áldalak, jó Uram
-* Kenyeret és bort hozok :fire:
-* Hadd legyek nálad :fire:
-* Ó, te vagy, Uram
-* Te vagy a fény (llmf)
-* Ádventi hírnök
-* András után vasárnap
-* ???
 * Mert te, Uram
+* Mert tudom, semmi nem
+* Minden, mi él
+* Nem vagyok én méltó
+* Nézz testvér fel
+* Ő az Úr
+* Ő az út, az élet (mrimrims)
 * Örülj az Úrban
-* A föld és az ég
-* Béke Istene
-* Jézus, hű bárány
+* Ó, te vagy, Uram
+* Per crucem
+* Röpke fohász
+* Szent x5 vagy (ldtldl)
+* Szeretünk téged, Mária
+* Tápláló szent kenyér
+* Teremts bennem
+* Te vagy a fény (llmf)
+* Te vagy az út, az igazság (mmmr)
+* Virrassz még
+* Zengi a hajnal
