@@ -2,7 +2,7 @@
 
 ## ezeket nagyon
 
-* Allelúja (lmdr ddrtlsl dtsl) :fire:
+* Allelúja (lmdr ddrtlsl dtsl) :fire: https://youtu.be/SnvSN87d2Ds
 * Allelúja (mdfm) :fire:
 * Annak, ki a trónon ül :fire:
 * Ébredj fel te, ki bűnben jársz :fire:
