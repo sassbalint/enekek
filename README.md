@@ -4,14 +4,20 @@
 
 * Allelúja (lmdr ddrtlsl dtsl) :fire: :heavy_check_mark: https://youtu.be/SnvSN87d2Ds
 * Allelúja (mdfm) :fire: :heavy_check_mark:
+* Állok, és Téged csodállak (The Stand) :fire: :raised_hands: https://youtu.be/iuhH0k84Rm8
 * Annak, ki a trónon ül :fire: :heavy_check_mark:
 * Ébredj fel te, ki bűnben jársz :fire:
+* Eljött hozzám, mikor még (Here I am to Worship) :fire: :raised_hands: https://youtu.be/tcY7iJ_KoYU
 * Hadd legyek nálad :fire:
+* Hívlak, Jézus (I Speak Jesus) :fire: :raised_hands: https://youtu.be/Rkfw6g2MU9E
+* Kell, hogy végre érezd (Mighty to Save) :fire: :raised_hands: https://youtu.be/6u0SJa8SWpk
 * Kenyeret és bort hozok :fire: :heavy_check_mark:
 * Kész az én szívem :fire:
 * Krisztus, virágunk :fire:
+* Nincs más Isten (Our God is Greater) :fire: :raised_hands: https://youtu.be/cec-ZImTy_E
 * Te vagy az út (rmrd drmrdr) :fire:
 * Van egy másik világ :fire:
+* Vedd a szívem (I Surrender) :fire: :raised_hands: https://youtu.be/s7jXASBWwwl
 
 ## ezeket is
 
