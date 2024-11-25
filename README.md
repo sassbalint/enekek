@@ -2,12 +2,12 @@
 
 ## ezeket nagyon
 
-* Allelúja (lmdr ddrtlsl dtsl) :fire: https://youtu.be/SnvSN87d2Ds
-* Allelúja (mdfm) :fire:
-* Annak, ki a trónon ül :fire:
+* Allelúja (lmdr ddrtlsl dtsl) :fire: :heavy_check_mark: https://youtu.be/SnvSN87d2Ds
+* Allelúja (mdfm) :fire: :heavy_check_mark:
+* Annak, ki a trónon ül :fire: :heavy_check_mark:
 * Ébredj fel te, ki bűnben jársz :fire:
 * Hadd legyek nálad :fire:
-* Kenyeret és bort hozok :fire:
+* Kenyeret és bort hozok :fire: :heavy_check_mark:
 * Kész az én szívem :fire:
 * Krisztus, virágunk :fire:
 * Te vagy az út (rmrd drmrdr) :fire:
@@ -31,11 +31,11 @@
 * Erőt adsz :heavy_check_mark:
 * Fivérem, Nap (?)
 * Győzelmet vettél
-* Ízleld és lásd
+* Ízleld és lásd :heavy_check_mark:
 * Jézus, hű bárány
 * Jézus nékünk adtál anyát
 * Jézus, ünnepeljük győzelmed
-* Jöjj, itt az idő, hogy
+* Jöjj, itt az idő, hogy :heavy_check_mark:
 * Kegyelmed, ó Jézus
 * Király vagy
 * Köszönöm, Jézus :heavy_check_mark:
@@ -55,11 +55,11 @@
 * Örülj az Úrban
 * Ó, te vagy, Uram
 * Per crucem
-* Röpke fohász
+* Röpke fohász :heavy_check_mark:
 * Szent x5 vagy (ldtldl)
 * Szeretünk téged, Mária
 * Tápláló szent kenyér :heavy_check_mark:
-* Teremts bennem
+* Teremts bennem :heavy_check_mark:
 * Te vagy a fény (llmf)
 * Te vagy az út, az igazság (mmmr)
 * Virrassz még
